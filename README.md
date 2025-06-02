@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-DEmo file
-=======
-feature file
->>>>>>> master
+resolved
